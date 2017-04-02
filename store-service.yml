@@ -1,4 +1,4 @@
 security:
   ignored:
   - /cloudfoundryapplication/**
-  - /products**
+  - /products/**
