@@ -2,3 +2,7 @@ security:
   ignored:
   - /cloudfoundryapplication/**
   - /products/**
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
