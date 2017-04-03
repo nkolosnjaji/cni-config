@@ -1,0 +1,5 @@
+security:
+  ignored:
+    - /cloudfoundryapplication/**
+    - /test/discovery
+    - /products/**
