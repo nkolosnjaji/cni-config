@@ -1,4 +1,7 @@
 management:
   info:
     git:
-      mode: full
+      mode: full      
+feign:
+  hystrix:
+    enabled: true
