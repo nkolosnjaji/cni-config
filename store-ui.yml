@@ -1,5 +1,5 @@
 security:
   ignored:
     - /cloudfoundryapplication/**
-    - /test/discovery
+    - /test/**
     - /products/**
